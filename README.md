@@ -4,6 +4,12 @@ Code for the paper **"Translate or Simplify First: An Analysis of Cross-lingual 
 
 Four standalone scripts, each with a CLI (`python <script>.py --help`).
 
+## Data
+The input data (complex texts and their simplified versions) is available here:
+[Google Drive](https://drive.google.com/drive/folders/1rzH292aF3MRn7WMEWy7i12XfQ7PcLvfo?usp=drive_link)
+
+For the literature texts (*Around the World in 80 Days* and *Dr. Jekyll and Mr. Hyde*) we publish only the complex texts (complex and translated); the simplified versions are withheld due to copyright.
+
 ## Setup
 ```
 pip install -r requirements.txt
