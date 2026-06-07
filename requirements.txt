@@ -1,0 +1,13 @@
+pandas
+openpyxl
+numpy
+scipy
+deep-translator
+nltk
+spacy
+pyphen
+textstat
+easse
+bert-score
+sentence-transformers
+torch
