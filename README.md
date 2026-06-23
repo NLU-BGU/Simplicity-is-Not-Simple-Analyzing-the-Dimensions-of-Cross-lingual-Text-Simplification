@@ -8,7 +8,7 @@ Four standalone scripts, each with a CLI (`python <script>.py --help`).
 The input data (complex texts and their simplified versions) is available here:
 [Google Drive](https://drive.google.com/drive/folders/1rzH292aF3MRn7WMEWy7i12XfQ7PcLvfo?usp=drive_link)
 
-For the literature texts (*Around the World in 80 Days* and *Dr. Jekyll and Mr. Hyde*) we publish only the complex texts (complex and translated); the simplified versions are withheld due to copyright.
+For the literary texts (*Around the World in 80 Days* and *The Strange Case of Dr. Jekyll and Mr. Hyde*), we publish only the complex versions (original and translated); the full simplified versions are withheld due to copyright restrictions, but they can be regenerated from the sources listed in the Literature Corpus appendix of the article.
 
 ## Setup
 ```
